@@ -1,0 +1,28 @@
+.main-video-container{
+    margin: 1em 0 1em 0;
+}
+
+.main-video-item {
+    width: 70%;
+}
+
+.trail-container{
+    margin: 0 1em 0 1em;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+}
+
+.trail-item{
+    border: solid 1px white;
+}
+
+.trail-item img{
+    width: 70%;
+    margin: 1em 0 1em 0;
+    border: solid 1px white
+}
+
+a {
+    cursor: pointer
+}

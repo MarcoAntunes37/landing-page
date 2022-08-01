@@ -1,0 +1,23 @@
+.buy-item{
+    border-radius: 2em;
+    padding: 1.5em;
+    color: white;  
+}
+
+.items-container a {
+    width: calc(100%/4);
+}
+
+@media only screen and (max-width: 840px) {
+    
+    .items-container a {
+        width: 30%;
+    }
+    
+}
+
+@media only screen and (max-width: 600px){
+    .items-container a {
+        width: 60%;
+    }
+}

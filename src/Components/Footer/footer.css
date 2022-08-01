@@ -1,0 +1,7 @@
+.social-container{
+    display: flex;
+}
+
+.social-item{
+    margin: 1em
+}
